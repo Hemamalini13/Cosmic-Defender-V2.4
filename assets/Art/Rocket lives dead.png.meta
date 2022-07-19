@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "795f028d-ca39-4643-aafb-52295cca514a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 45,
+  "height": 45,
+  "platformSettings": {},
+  "subMetas": {
+    "Rocket lives dead": {
+      "ver": "1.0.4",
+      "uuid": "a8b14b0b-aed2-4636-81db-ccb5751c0e9b",
+      "rawTextureUuid": "795f028d-ca39-4643-aafb-52295cca514a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 4,
+      "width": 42,
+      "height": 36,
+      "rawWidth": 45,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

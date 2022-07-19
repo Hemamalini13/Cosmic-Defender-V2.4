@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "600cb383-fe0c-4ed5-a042-452b4f9c010e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 15,
+  "height": 25,
+  "platformSettings": {},
+  "subMetas": {
+    "Enemy Projectile": {
+      "ver": "1.0.4",
+      "uuid": "f7f83605-5f94-4703-8cd2-66124530663e",
+      "rawTextureUuid": "600cb383-fe0c-4ed5-a042-452b4f9c010e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 10,
+      "height": 19,
+      "rawWidth": 15,
+      "rawHeight": 25,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
